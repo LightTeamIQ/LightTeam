@@ -47,6 +47,8 @@ Then restart the bot.
 
 @sajody12
 
+@hunter18k
+
 #All Thx To
 
 SeedTeam 💡
