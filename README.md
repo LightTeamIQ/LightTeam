@@ -46,9 +46,12 @@ Then restart the bot.
 @IdevO_o
 
 @sajody12
-Seed Team
 
-TelePro Team
+#All Thx To
+
+SeedTeam 💡
+
+TelePro Team💡
 
 And All My Friends
 
