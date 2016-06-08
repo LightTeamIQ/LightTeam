@@ -1,8 +1,6 @@
-#Api TeleBeyond
+#LightTeam api Bot
 
-**An advanced and powerful administration api bot based on TeleSeed licensed under the [GNU General Public License](https://github.com/solid021/Api-TeleBeyond/blob/master/LICENSE)**.
 
-#Don't Forget Star To Us ;)
 
 # Lets Install :D
 
@@ -12,8 +10,8 @@
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make autoconf unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev
 
 cd $HOME
-git clone http://Github.com/BeyondTeam/Api-TeleBeyond.git
-cd Api-TeleBeyond
+git clone http://Github.com/LightTeamIQ/LightTeam.git
+cd LightTeam
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh
@@ -39,19 +37,15 @@ Put Your Telegram ID In ./data/config.lua
 Then restart the bot.
 
 #Sudo Users :
+@Saeco
 
-#([SoLiD](https://telegram.me/SoLiD021))
+@ILWIL
 
-#([Behnam](https://telegram.me/idivaNmanheB))
+@ILUIl
 
-#Team Channel :
+@IdevO_o
 
-#([@BeyondTeam](https://telegram.me/BeyondTeam))
-
-#Special Thx To :
-
-#([MrHalix](https://telegram.me/MrHalix))
-
+@sajody12
 Seed Team
 
 TelePro Team
