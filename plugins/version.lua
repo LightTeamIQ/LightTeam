@@ -1,29 +1,27 @@
 do
 
 function run(msg, matches)
-  return 'TeleBeyond Api Bot v1.0'.. [[ 
+  return 'LightTeam Api Bot v1.0'.. [[ 
 An Advanced Administration Api Bot Based On TeleSeed
 
-First Time Open Source By @SoLiD021 & @idivanmanheb
+
 
 Source On GitHub :
-http://GitHub.com/BeyondTeam/Api-TeleBeyond
+http://GitHub.com/LightTeamIQ/LightTeam
 
-Sudo Users :
-
-Developer&Founder : @SoLiD021
-
-Helper&Manager : @idivanmanheb
 
 Team Channel :
-Telegram.me/BeyondTeam]]
+Telegram.me/LightTeampro
+or arabic channel
+Telegram.me/LightTeamAr
+]] 
 end
 
 return {
   description = "Robot and Creator About", 
   usage = "/ver : robot info",
   patterns = {
-    "^[!/]version$",
+    "^[!/#]version$",
     "^([Vv]ersion)$"
   }, 
   run = run 
